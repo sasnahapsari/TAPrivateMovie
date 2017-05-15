@@ -41,7 +41,7 @@
 
 <br>
 
-<P> Aplikasi ini adalah aplikasi yang digunakan untuk melihat daftar-daftar film. Swipe ke kiri untuk melihat menu-menu yang ada. Menu yang pertama adalah Popular, yaitu untuk menampilkan daftar-daftar film yang popular atau yang paling digemari oleh penonton. Menu yang kedua adalah Coming Soon, yaitu untuk melihat daftar-daftar film yang akan release atau yang akan tayang. Menu yang ketiga adalah Now Playing, yaitu untuk melihat daftar-daftar film yang sedang tayang saat ini. </P>
+<P> Aplikasi ini adalah aplikasi yang digunakan untuk melihat daftar-daftar film. Swipe ke kiri untuk melihat menu-menu yang ada. Menu yang pertama adalah Popular, yaitu untuk menampilkan daftar-daftar film yang popular atau yang paling digemari oleh penonton. Menu yang kedua adalah Coming Soon, yaitu untuk melihat daftar-daftar film yang akan release atau yang akan tayang. Menu yang ketiga adalah Now Playing, yaitu untuk melihat daftar-daftar film yang sedang tayang saat ini. Aplikasi ini sangat cocok untuk penggemar film. </P>
 
 <br>
 
