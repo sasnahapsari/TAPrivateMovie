@@ -7,7 +7,7 @@
 <br>
 
 #### B. (LINK DOWNLOAD)
-<P> https://drive.google.com/open?id=0B5So4bmHYD96TW4taVhHdngtR00 </P>
+[Download Aplikasi](https://drive.google.com/uc?export=download&id=0B36Y2xO8CvzlUlBOakI3RC1IdEU)
 
 <br>
 
@@ -37,7 +37,15 @@
 
 <br>
 
-### F. (DERKRIPSI APLIKASI)
+### F. (LOCAL DATABASE)
+
+<br>
+
+<P> SugarORM </P>
+
+<br>
+
+### G. (DERKRIPSI APLIKASI)
 
 <br>
 
@@ -45,7 +53,7 @@
 
 <br>
 
-### G. (KELEBIHAN)
+### H. (KELEBIHAN)
 
 <br>
 
@@ -56,15 +64,15 @@
 
 <br>
 
+### I. (Library Lain)
+
+<br>
+
+- intro/Guide Aplikasi - 'com.github.deano2390:MaterialShowcaseView:1.1.0'
+
+<br>
+
 ### D. (SCREENSHOT)
-<p align="center">
-   <img src="https://cloud.githubusercontent.com/assets/22133030/26035703/bc091aa4-38fa-11e7-8072-6a44f2e7303c.png" width="350"/>
-   <img src="https://cloud.githubusercontent.com/assets/22133030/26035705/bf8bc1d6-38fa-11e7-9bfb-7cb7d2fa3cde.png" width="350"/>
- </p>
- <p align="center">
-   <img src="https://cloud.githubusercontent.com/assets/22133030/26035707/c2a123b6-38fa-11e7-8d71-1df5b8a6ab01.png" width="350"/>
-   <img src="https://cloud.githubusercontent.com/assets/22133030/26035709/c72969fc-38fa-11e7-8159-e074a7d6ba3d.png" width="350"/>
- </p>
-  <p align="center">
-   <img src="https://cloud.githubusercontent.com/assets/22133030/26035712/caeb2c4c-38fa-11e7-9ae7-3f3d0e6031f5.png" width="350"/>
- </p>
+<img src="https://user-images.githubusercontent.com/22133030/27065521-f6b40544-5027-11e7-9f26-99ac36860b80.jpg" width="300" height="515" />|<img src="https://user-images.githubusercontent.com/22133030/27065524-f758f2f2-5027-11e7-9227-722af54384f4.jpg" width="300" height="515" />
+<img src="https://user-images.githubusercontent.com/22133030/27065520-f699bd4c-5027-11e7-80e8-1347a9235dcf.png" width="300" height="515" />|<img src="https://user-images.githubusercontent.com/22133030/27065525-f7593438-5027-11e7-9034-7dc850006a19.png" width="300" height="515" />
+<img src="https://user-images.githubusercontent.com/22133030/27065523-f7093488-5027-11e7-9078-498439c27b03.png" width="300" height="515" />|<img src="https://user-images.githubusercontent.com/22133030/27065527-f9229958-5027-11e7-9abe-ea71822d366a.png" width="300" height="515" />
