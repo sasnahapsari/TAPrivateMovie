@@ -27,7 +27,7 @@ import id.sch.smktelkom_mlg.privateassignment.xirpl529.taprivate.service.VolleyS
 /**
  * A simple {@link Fragment} subclass.
  */
-public class PopFragment extends Fragment implements SourceAdapter.ISourceAdapter {
+public class PopFragment extends Fragment {
 
     ArrayList<Result> mList = new ArrayList<>();
     SourceAdapter mAdapter;
@@ -80,10 +80,5 @@ public class PopFragment extends Fragment implements SourceAdapter.ISourceAdapte
                     }
                 });
         VolleySingleton.getInstance(this.getActivity()).addToRequestQueue(myRequest);
-    }
-
-    @Override
-    public void showArticles(String title, String overview) {
-
     }
 }
